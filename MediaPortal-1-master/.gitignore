@@ -1,0 +1,23 @@
+[B|b]in
+obj
+*.log
+*.suo
+*.sln.cache
+*.resharper
+*.user
+_ReSharper.*
+/Release
+Thumbs.db
+*.bak
+/mediaportal/Setup/uninstall.nsh
+Packages
+*.DotSettings
+/Build/NuGet.exe
+*.zip
+*.gif
+Build/Build_Report_Release_Filters.html
+Build/VS_build_DirectShowFilters (2).bat
+Build/_BuildReport_Files/BuildReport.xslt
+Build/_BuildReport_Files/BuildReport.css
+Build/Build_Report_Release_Filters.xml
+DirectShowFilters/Core-CC-Parser/cc decode log 1.txt
